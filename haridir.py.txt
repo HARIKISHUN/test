@@ -1,0 +1,3 @@
+print("welcome to edureka")
+print("hello hari")
+print("adding of two numbers gives another number")
